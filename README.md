@@ -1,3 +1,7 @@
+Draw column charts  in Excel (single series / dual series).
+Use Sheet1 workSheet in your workBook.
+Copy codes in Module1 of your Excel workBook.
+
 Chart data-blocks:
 Row-1
 A1: chartName 
@@ -14,4 +18,3 @@ C3: Data
 D3: letters for onTop of SD-bars
 E3: SD values
 Row-4 ...
-<img width="541" height="468" alt="image" src="https://github.com/user-attachments/assets/c8b2e8d2-e8ae-4151-a0df-e21de5268ec0" />
